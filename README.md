@@ -125,7 +125,7 @@ The [Current Information](#current-information) section below discusses the vers
 
 ## Current Information
 
-**The current "latest" version is Unifi Controller 9.0.108.
+**The current "latest" version is Unifi Controller 9.0.114.
 There are currently no hot-fix or CVE warnings
 affecting Unifi Controller.**
 
